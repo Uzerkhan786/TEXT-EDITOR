@@ -7,7 +7,7 @@ export default function Alert(props) {
       <div class="alert alert-primary" role="alert">
         {props.alert.message}:{props.alert.type}
       </div>
-
+// to which
 
     </div>}
     </div>
